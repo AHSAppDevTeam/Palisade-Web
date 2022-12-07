@@ -1,20 +1,19 @@
+body {
+  background: #efcdf8;
+  margin: 24px;
+}
+
 .timer {
-  font-family: 'Times New Roman', Times, serif;
-  font-weight: 900;
-  font-size: 30px;
-  color: rgb(126, 37, 83);
+  font-family: sans-serif;
   display: inline-block;
-  padding: 10px 32px;
+  padding: 24px 32px;
   border-radius: 30px;
   background: white;
 }
 
 .timer__part {
-  padding-left: 32px;
-  font-family: 'Times New Roman', Times, serif;
-  font-weight: 500;
-  font-size: 30px;
-  color: rgb(35, 17, 35);
+  font-size: 36px;
+  font-weight: bold;
 }
 
 .timer__btn {
